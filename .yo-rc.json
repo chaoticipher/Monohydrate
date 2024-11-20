@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "Monohydrate",
+    "buildTool": "gradle",
+    "cacheProvider": "ehcache",
+    "clientFramework": "angular",
+    "clientPackageManager": "npm",
+    "clientTheme": null,
+    "creationTimestamp": 1732125190244,
+    "databaseType": "mongodb",
+    "devServerPort": 4200,
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "MjhiY2I2YWRlNzdiZWQxNDA1Mzc3NThiZjRiNWRmOWZmYjUzOTA0MzU2ZDE3ZGNjOTc1MDk1ZmE2NzRkOTg0YTBhNGQxNTRkNGFiNzQ3ZDk5ZDc5NzljZGMxNjIxN2Y4NmNhOTg1MDYxOTlmOWExNGQ1ZDAwZjNmOTZjMTQ0ZDA=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": null,
+    "testFrameworks": ["cypress"],
+    "websocket": null
+  }
+}
